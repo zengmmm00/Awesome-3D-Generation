@@ -3,9 +3,12 @@ A curated list of recent diffusion models for 3D generation.
 
 
 ## Table of Contents <!-- omit in toc -->
+
 - [Toolboxes and Foundation Models](#toolboxes-and-foundation-models)
+- [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 
 ### Toolboxes and Foundation Models 
+
 + [TRELLIS](https://github.com/microsoft/TRELLIS)  
   [![Star](https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social&label=Star)](https://github.com/microsoft/TRELLIS)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01506)
@@ -37,5 +40,9 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13897)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/clay-3dlm)
   
+### Evaluation Benchmarks and Metrics
 
-  
++ [Objaverse-XL: A Universe of 10M+ 3D Objects](https://arxiv.org/abs/2307.05663) (Jul., 2023)  
+  [![Star](https://img.shields.io/github/stars/allenai/objaverse-xl.svg?style=social&label=Star)](https://github.com/allenai/objaverse-xl)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05663)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://objaverse.allenai.org/)
