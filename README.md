@@ -6,6 +6,7 @@ A curated list of recent diffusion models for 3D generation.
 
 - [Toolboxes and Foundation Models](#toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
+- [Mesh Generation](#mesh-generation)
 
 ### Toolboxes and Foundation Models 
 
@@ -46,3 +47,15 @@ A curated list of recent diffusion models for 3D generation.
   [![Star](https://img.shields.io/github/stars/allenai/objaverse-xl.svg?style=social&label=Star)](https://github.com/allenai/objaverse-xl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05663)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://objaverse.allenai.org/)
+
+### Mesh Generation
+
++ [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://github.com/buaacyw/MeshAnythingV2) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/buaacyw/MeshAnythingV2.svg?style=social&label=Star)](https://github.com/buaacyw/MeshAnythingV2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.02555)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://buaacyw.github.io/meshanything-v2/)
+
++ [MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers](https://github.com/buaacyw/MeshAnything) (Oct., 2024 | ICLR 2025)  
+  [![Star](https://img.shields.io/github/stars/buaacyw/MeshAnything.svg?style=social&label=Star)](https://github.com/buaacyw/MeshAnything)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10163)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://buaacyw.github.io/mesh-anything/)
