@@ -6,6 +6,7 @@ A curated list of recent diffusion models for 3D generation.
 
 - [Toolboxes and Foundation Models](#toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
+- [3D Inpainting](#3d-inpainting)
 - [Mesh Generation](#mesh-generation)
 
 ### Toolboxes and Foundation Models 
@@ -47,6 +48,13 @@ A curated list of recent diffusion models for 3D generation.
   [![Star](https://img.shields.io/github/stars/allenai/objaverse-xl.svg?style=social&label=Star)](https://github.com/allenai/objaverse-xl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05663)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://objaverse.allenai.org/)
+
+### 3D Inpainting
+
++ [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://github.com/zhshi0816/IMFine) (Mar., 2025 | CVPR 2025)  
+  [![Star](https://img.shields.io/github/stars/zhshi0816/IMFine.svg?style=social&label=Star)](https://github.com/zhshi0816/IMFine)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2503.04501v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xinxinzuo2353.github.io/imfine/)
 
 ### Mesh Generation
 
