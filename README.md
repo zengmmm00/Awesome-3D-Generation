@@ -6,13 +6,6 @@ A curated list of recent diffusion models for 3D generation.
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 
 ### Open-source Toolboxes and Foundation Models 
-+ [Tripo AI](https://www.tripo3d.ai/)  
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.tripo3d.ai/)
-  
-+ [TripoSR](https://github.com/microsoft/TRELLIS)  
-  [![Star](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR.svg?style=social&label=Star)](https://github.com/VAST-AI-Research/TripoSR)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02151)
-   
 + [TRELLIS](https://github.com/microsoft/TRELLIS)  
   [![Star](https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social&label=Star)](https://github.com/microsoft/TRELLIS)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01506)
@@ -32,3 +25,10 @@ A curated list of recent diffusion models for 3D generation.
   [![Star](https://img.shields.io/github/stars/AiuniAI/Unique3D.svg?style=social&label=Star)](https://github.com/AiuniAI/Unique3D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20343)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wukailu.github.io/Unique3D/)
+
++ [Tripo AI](https://www.tripo3d.ai/)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.tripo3d.ai/)
+  
++ [TripoSR](https://github.com/microsoft/TRELLIS)  
+  [![Star](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR.svg?style=social&label=Star)](https://github.com/VAST-AI-Research/TripoSR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02151)
