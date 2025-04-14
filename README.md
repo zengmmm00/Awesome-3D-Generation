@@ -6,7 +6,24 @@ A curated list of recent diffusion models for 3D generation.
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 
 ### Open-source Toolboxes and Foundation Models 
++ [Tripo AI](https://www.tripo3d.ai/)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.tripo3d.ai/)
+  
++ [TripoSR](https://github.com/microsoft/TRELLIS)  
+  [![Star](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR.svg?style=social&label=Star)](https://github.com/VAST-AI-Research/TripoSR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02151)
+   
 + [TRELLIS](https://github.com/microsoft/TRELLIS)  
   [![Star](https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social&label=Star)](https://github.com/microsoft/TRELLIS)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01506)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://trellis3d.github.io/)
+
++ [Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1)  
+  [![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-1.svg?style=social&label=Star)](https://github.com/Tencent/Hunyuan3D-1)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.02293)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/)
+  
++ [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)  
+  [![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2.svg?style=social&label=Star)](https://github.com/Tencent/Hunyuan3D-2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12202)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://3d.hunyuan.tencent.com/)
