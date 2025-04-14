@@ -27,3 +27,8 @@ A curated list of recent diffusion models for 3D generation.
   [![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2.svg?style=social&label=Star)](https://github.com/Tencent/Hunyuan3D-2)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12202)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://3d.hunyuan.tencent.com/)
+
++ [Unique3D](https://github.com/AiuniAI/Unique3D)  
+  [![Star](https://img.shields.io/github/stars/AiuniAI/Unique3D.svg?style=social&label=Star)](https://github.com/AiuniAI/Unique3D)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20343)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wukailu.github.io/Unique3D/)
