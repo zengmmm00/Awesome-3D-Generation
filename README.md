@@ -6,7 +6,8 @@ A curated list of recent diffusion models for 3D generation.
 
 - [Toolboxes and Foundation Models](#toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
-- [3D Inpainting](#3d-inpainting)
+- [Object Generation](#object-generation)
+- [Inpainting](#inpainting)
 - [Mesh Generation](#mesh-generation)
 
 ### Toolboxes and Foundation Models 
@@ -49,7 +50,13 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05663)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://objaverse.allenai.org/)
 
-### 3D Inpainting
+### Object Generation
+
++ [Edify 3D: Scalable High-Quality 3D Asset Generation](http://arxiv.org/abs/2411.07135v1) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2411.07135v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/edify-3d)
+
+### Inpainting
 
 + [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://github.com/zhshi0816/IMFine) (Mar., 2025 | CVPR 2025)  
   [![Star](https://img.shields.io/github/stars/zhshi0816/IMFine.svg?style=social&label=Star)](https://github.com/zhshi0816/IMFine)
@@ -57,10 +64,14 @@ A curated list of recent diffusion models for 3D generation.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xinxinzuo2353.github.io/imfine/)
 
 ### Mesh Generation
-
+  
 + [Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale](https://arxiv.org/abs/2412.09548) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09548)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/meshtron/)
+
++ [Scaling Mesh Generation via Compressive Tokenization](http://arxiv.org/abs/2411.07025v1) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2411.07025v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://whaohan.github.io/bpt)
   
 + [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://github.com/buaacyw/MeshAnythingV2) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/buaacyw/MeshAnythingV2.svg?style=social&label=Star)](https://github.com/buaacyw/MeshAnythingV2)
