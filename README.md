@@ -50,6 +50,10 @@ A curated list of recent diffusion models for 3D generation.
 
 ### Mesh Generation
 
++ [Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale](https://arxiv.org/abs/2412.09548) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09548)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/meshtron/)
+  
 + [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://github.com/buaacyw/MeshAnythingV2) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/buaacyw/MeshAnythingV2.svg?style=social&label=Star)](https://github.com/buaacyw/MeshAnythingV2)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.02555)
