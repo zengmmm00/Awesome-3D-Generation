@@ -5,7 +5,7 @@ A curated list of recent diffusion models for 3D generation.
 ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 
-### Open-source Toolboxes and Foundation Models 
+### Toolboxes and Foundation Models 
 + [TRELLIS](https://github.com/microsoft/TRELLIS)  
   [![Star](https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social&label=Star)](https://github.com/microsoft/TRELLIS)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01506)
@@ -32,3 +32,10 @@ A curated list of recent diffusion models for 3D generation.
 + [TripoSR](https://github.com/microsoft/TRELLIS)  
   [![Star](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR.svg?style=social&label=Star)](https://github.com/VAST-AI-Research/TripoSR)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02151)
+
++ [CLAY](https://sites.google.com/view/clay-3dlm)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13897)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/clay-3dlm)
+  
+
+  
