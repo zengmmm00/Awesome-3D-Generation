@@ -3,7 +3,7 @@ A curated list of recent diffusion models for 3D generation.
 
 
 ## Table of Contents <!-- omit in toc -->
-- [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
+- [Toolboxes and Foundation Models](#toolboxes-and-foundation-models)
 
 ### Toolboxes and Foundation Models 
 + [TRELLIS](https://github.com/microsoft/TRELLIS)  
