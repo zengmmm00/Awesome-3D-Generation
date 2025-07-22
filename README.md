@@ -56,12 +56,12 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2411.07135v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/edify-3d)
 
-+ [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets](https://arxiv.org/abs/2505.07747) (May., 2025)
++ [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets](https://arxiv.org/abs/2505.07747) (May., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07747)
   [![Star](https://img.shields.io/github/stars/stepfun-ai/Step1X-3D?style=social&label=Star)](https://github.com/stepfun-ai/Step1X-3D)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stepfun-ai.github.io/Step1X-3D/)
   
-+ [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/abs/2506.05573) (Jun., 2025)
++ [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/abs/2506.05573) (Jun., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05573)
   [![Star](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social&label=Star)](https://github.com/wgsxm/PartCrafter)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wgsxm.github.io/projects/partcrafter)
