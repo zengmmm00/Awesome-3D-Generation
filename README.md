@@ -60,7 +60,7 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06165)
 
 + [PhysX-3D: Physical-Grounded 3D Asset Generation](https://arxiv.org/abs/2507.12465) (Jul., 2025)  
-  [![Star](https://img.shields.io/github/stars/allenai/objaverse-xl.svg?style=social&label=Star)](https://github.com/ziangcao0312/PhysX-3D)
+  [![Star](https://img.shields.io/github/stars/ziangcao0312/PhysX-3D?style=social&label=Star)](https://github.com/ziangcao0312/PhysX-3D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12465)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physx-3d.github.io/)
   
