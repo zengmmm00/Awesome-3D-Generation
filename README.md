@@ -56,6 +56,9 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2411.07135v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/edify-3d)
 
++ [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion](https://arxiv.org/abs/2507.06165) (Jul., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06165)
+  
 ### Inpainting
 
 + [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://github.com/zhshi0816/IMFine) (Mar., 2025 | CVPR 2025)  
