@@ -60,6 +60,11 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07747)
   [![Star](https://img.shields.io/github/stars/stepfun-ai/Step1X-3D?style=social&label=Star)](https://github.com/stepfun-ai/Step1X-3D)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stepfun-ai.github.io/Step1X-3D/)
+
++ [Sparc3D: Sparse Representation and Construction for High-Resolution 3D
+  Shapes Modeling](https://arxiv.org/abs/2505.14521) (May., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14521)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lizhihao6.github.io/Sparc3D/)
   
 + [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/abs/2506.05573) (Jun., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05573)
@@ -73,13 +78,17 @@ A curated list of recent diffusion models for 3D generation.
   [![Star](https://img.shields.io/github/stars/ziangcao0312/PhysX-3D?style=social&label=Star)](https://github.com/ziangcao0312/PhysX-3D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12465)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physx-3d.github.io/)
-  
-### Inpainting
 
-+ [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://github.com/zhshi0816/IMFine) (Mar., 2025 | CVPR 2025)  
-  [![Star](https://img.shields.io/github/stars/zhshi0816/IMFine.svg?style=social&label=Star)](https://github.com/zhshi0816/IMFine)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2503.04501v1)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://xinxinzuo2353.github.io/imfine/)
++ [Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention](https://arxiv.org/abs/2507.17745) (Jul., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.17745)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://buaacyw.github.io/ultra3d/)
+
+### Scene Generation
+
++ [SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass](https://arxiv.org/abs/2508.15769) (Aug., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.15769)
+  [![Star](https://img.shields.io/github/stars/Mengmouxu/SceneGen?style=social&label=Star)](https://github.com/Mengmouxu/SceneGen)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mengmouxu.github.io/SceneGen/)
 
 ### Mesh Generation
   
@@ -100,3 +109,11 @@ A curated list of recent diffusion models for 3D generation.
   [![Star](https://img.shields.io/github/stars/buaacyw/MeshAnything.svg?style=social&label=Star)](https://github.com/buaacyw/MeshAnything)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10163)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://buaacyw.github.io/mesh-anything/)
+
+  
+### Inpainting
+
++ [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://github.com/zhshi0816/IMFine) (Mar., 2025 | CVPR 2025)  
+  [![Star](https://img.shields.io/github/stars/zhshi0816/IMFine.svg?style=social&label=Star)](https://github.com/zhshi0816/IMFine)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2503.04501v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xinxinzuo2353.github.io/imfine/)
