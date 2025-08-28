@@ -83,12 +83,19 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.17745)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://buaacyw.github.io/ultra3d/)
 
++ [VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D
+  Space](https://arxiv.org/abs/2508.19247) (Aug., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19247)
+  [![Star](https://img.shields.io/github/stars/Nelipot-Lee/VoxHammer?style=social&label=Star)](https://github.com/Nelipot-Lee/VoxHammer)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huanngzh.github.io/VoxHammer-Page/)
+  
 ### Scene Generation
 
 + [SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass](https://arxiv.org/abs/2508.15769) (Aug., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.15769)
   [![Star](https://img.shields.io/github/stars/Mengmouxu/SceneGen?style=social&label=Star)](https://github.com/Mengmouxu/SceneGen)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mengmouxu.github.io/SceneGen/)
+
 
 ### Mesh Generation
   
@@ -110,7 +117,10 @@ A curated list of recent diffusion models for 3D generation.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10163)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://buaacyw.github.io/mesh-anything/)
 
-  
++ [FastMesh:Efficient Artistic Mesh Generation via Component Decoupling](https://arxiv.org/abs/2508.19188) (Aug., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19188)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jhkim0759.github.io/projects/FastMesh/)
+
 ### Inpainting
 
 + [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://github.com/zhshi0816/IMFine) (Mar., 2025 | CVPR 2025)  
