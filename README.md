@@ -1,22 +1,22 @@
   # Awesome-3D-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-  
+
   A curated list of recent diffusion models for 3D generation.
-  
+
   ## Table of Contents <!-- omit in toc -->
-  
+
   - [Websites](#toolboxes-and-foundation-models)
   - [Implicit Shape](#implicit-shape)
   - [3DGS](#3DGS)
   - [Mesh](#Mesh)
-  
+
   ## Websites
-  
+
   - [Hunyuan3D](https://3d.hunyuan.tencent.com/)
-  
-  + [Tripo AI](https://www.tripo3d.ai/)
-  
+  - [Tripo AI](https://www.tripo3d.ai/)
+  - [Hitem3D](https://hitem3d.ai/) 
+
   ## Implicit Shape
-  
+
   |                           Preview                            | Title                                                        |           Publication           |                            Links                             |
   | :----------------------------------------------------------: | :----------------------------------------------------------- | :-----------------------------: | :----------------------------------------------------------: |
   | <img src="assets/img/TripoSF.jpg" width="300"> | SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling (TripoSF) |           arXiv 2025            | [Paper](https://arxiv.org/pdf/2503.21732) <br> [Code](https://github.com/VAST-AI-Research/TripoSF) |
@@ -52,36 +52,37 @@
   | <img src="assets/img/NDF.jpg" width="300"> | Neural Unsigned Distance Fields for Implicit Function Learning |          NeurIPS 2020           |          [Paper](https://arxiv.org/pdf/2010.13938)           |
   | <img src="assets/img/ConvOccNets.jpg" width="300"> | Convolutional Occupancy Networks                             |            ECCV 2020            | [Paper](https://arxiv.org/pdf/2003.04618) <br> [Code](https://github.com/autonomousvision/convolutional_occupancy_networks) |
   | <img src="assets/img/IM-Net.jpg" width="300"> | IM-Net: Learning Implicit Fields for Generative Shape Modeling |            CVPR 2019            | [Paper](https://arxiv.org/abs/1812.02822) <br> [Code](https://github.com/czq142857/implicit-decoder) |
-  
+
   ## 3DGS
-  
-  |                           Preview                            | Title                                                        |          Publication           |                            Links                             |
-  | :----------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-  | <img src="assets/img/VRSplat.jpg" width="300"> | VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2505.10144)           |
-  | <img src="assets/img/GaussianSDF.jpg" width="300"> | Gaussian Splatting with Discretized SDF for Relightable Assets |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2507.15629)           |
-  | <img src="assets/img/GaussianCompression.jpg" width="300"> | Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2503.23337)           |
-  | <img src="assets/img/GSurvey2024.jpg" width="300"> | 3D Gaussian Splatting as a New Era: A Survey                 |         IEEE TVCG 2024         |   [Paper](https://ieeexplore.ieee.org/document/10521791/)    |
-  | <img src="assets/img/WildGaussians.jpg" width="300"> | WildGaussians: 3D Gaussian Splatting In the Wild             |          NeurIPS 2024          |    [Paper](https://neurips.cc/virtual/2024/poster/95434)     |
-  | <img src="assets/img/SpecGaussian.jpg" width="300"> | Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting |          NeurIPS 2024          |      [Paper](https://nips.cc/virtual/2024/poster/93509)      |
-  | <img src="assets/img/ODGS.jpg" width="300"> | ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings |          NeurIPS 2024          | [Paper](https://arxiv.org/pdf/2410.20686) <br> [Code](https://github.com/esw0116/ODGS) |
-  | <img src="assets/img/DOGS.jpg" width="300"> | DOGS: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction |          NeurIPS 2024          | [Paper](https://arxiv.org/pdf/2405.13943) <br> [Code](https://github.com/AIBluefisher/DOGS) |
-  | <img src="assets/img/FreeSplat.jpg" width="300"> | FreeSplat: Generalizable 3D Gaussian Splatting for Free-View Synthesis |          NeurIPS 2024          | [Paper](https://arxiv.org/pdf/2405.17958) <br> [Code](https://github.com/wangys16/FreeSplat) |
-  | <img src="assets/img/MCMCGS.jpg" width="300"> | 3D Gaussian Splatting as Markov Chain Monte Carlo            |    NeurIPS 2024 (Spotlight)    |          [Paper](https://arxiv.org/pdf/2404.09591)           |
-  | <img src="assets/img/3iGS.jpg" width="300"> | 3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting |           ECCV 2024            |   [Paper](https://eccv.ecva.net/virtual/2024/poster/2035)    |
-  | <img src="assets/img/HeadStudio.jpg" width="300"> | HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting |           ECCV 2024            | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-73411-3_9) |
-  | <img src="assets/img/GaussianGrouping.jpg" width="300"> | Gaussian Grouping: Segment and Edit Anything in 3D Scenes    |           ECCV 2024            | [Paper](https://arxiv.org/pdf/2312.00732) <br> [Code](https://github.com/lkeab/gaussian-grouping) |
-  | <img src="assets/img/2DGS.jpg" width="300"> | 2D Gaussian Splatting for Geometrically Accurate Radiance Fields |         SIGGRAPH 2024          | [Paper](https://arxiv.org/pdf/2403.17888.pdf) <br> [Code](https://github.com/hbb1/2d-gaussian-splatting) |
-  | <img src="assets/img/RecentAdvances.jpg" width="300"> | Recent Advances in 3D Gaussian Splatting                     |           arXiv 2024           |          [Paper](https://arxiv.org/pdf/2403.11134)           |
-  | <img src="assets/img/COLMAPFREE.jpg" width="300"> | COLMAP-Free 3D Gaussian Splatting                            |           CVPR 2024            | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_COLMAP-Free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf) |
-  | <img src="assets/img/GaussianSLAM.jpg" width="300"> | Gaussian Splatting SLAM                                      |     CVPR 2024 (Best Demo)      | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Matsuki_Gaussian_Splatting_SLAM_CVPR_2024_paper.html) |
-  | <img src="assets/img/MipSplatting.jpg" width="300"> | Mip-Splatting: Alias-free 3D Gaussian Splatting              | CVPR 2024 (Best Student Paper) | [Paper](https://arxiv.org/pdf/2311.16493) <br> [Code](https://niujinshuchong.github.io/mip-splatting/) |
-  | <img src="assets/img/DreamGaussian.jpg" width="300"> | DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation |        ICLR 2024 (Oral)        | [Paper](https://arxiv.org/pdf/2309.16653.pdf) <br> [Code](https://github.com/dreamgaussian/dreamgaussian) |
-  | <img src="assets/img/3DGS.jpg" width="300"> | 3D Gaussian Splatting for Real-Time Radiance Field Rendering |         SIGGRAPH 2023          | [Paper](https://arxiv.org/pdf/2308.04079.pdf) <br> [Code](https://github.com/graphdeco-inria/gaussian-splatting) |
-  | <img src="assets/img/ASurvey.jpg" width="300"> | A Survey on 3D Gaussian Splatting                            |           arXiv 2024           |          [Paper](https://arxiv.org/pdf/2401.03890)           |
-  | <img src="assets/img/SuGaR.jpg" width="300"> | SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering |           CVPR 2024            | [Paper](https://github.com/Anttwo/SuGaR) <br> [Code](https://github.com/Anttwo/SuGaR) |
-  
+
+|                          Preview                           | Title                                                        |          Publication           |                            Links                             |
+| :--------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
+|     <img src="assets/img/FlashWorld.png" width="300">      | FlashWorld: High-quality 3D Scene Generation within Seconds  |           arXiv 2025           | [Paper](https://arxiv.org/pdf/2510.13678) <br/> [Code](https://github.com/imlixinyang/FlashWorld) |
+|       <img src="assets/img/VRSplat.jpg" width="300">       | VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2505.10144)           |
+|     <img src="assets/img/GaussianSDF.jpg" width="300">     | Gaussian Splatting with Discretized SDF for Relightable Assets |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2507.15629)           |
+| <img src="assets/img/GaussianCompression.jpg" width="300"> | Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2503.23337)           |
+|     <img src="assets/img/GSurvey2024.jpg" width="300">     | 3D Gaussian Splatting as a New Era: A Survey                 |         IEEE TVCG 2024         |   [Paper](https://ieeexplore.ieee.org/document/10521791/)    |
+|    <img src="assets/img/WildGaussians.jpg" width="300">    | WildGaussians: 3D Gaussian Splatting In the Wild             |          NeurIPS 2024          |    [Paper](https://neurips.cc/virtual/2024/poster/95434)     |
+|    <img src="assets/img/SpecGaussian.jpg" width="300">     | Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting |          NeurIPS 2024          |      [Paper](https://nips.cc/virtual/2024/poster/93509)      |
+|        <img src="assets/img/ODGS.jpg" width="300">         | ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings |          NeurIPS 2024          | [Paper](https://arxiv.org/pdf/2410.20686) <br> [Code](https://github.com/esw0116/ODGS) |
+|        <img src="assets/img/DOGS.jpg" width="300">         | DOGS: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction |          NeurIPS 2024          | [Paper](https://arxiv.org/pdf/2405.13943) <br> [Code](https://github.com/AIBluefisher/DOGS) |
+|      <img src="assets/img/FreeSplat.jpg" width="300">      | FreeSplat: Generalizable 3D Gaussian Splatting for Free-View Synthesis |          NeurIPS 2024          | [Paper](https://arxiv.org/pdf/2405.17958) <br> [Code](https://github.com/wangys16/FreeSplat) |
+|       <img src="assets/img/MCMCGS.jpg" width="300">        | 3D Gaussian Splatting as Markov Chain Monte Carlo            |    NeurIPS 2024 (Spotlight)    |          [Paper](https://arxiv.org/pdf/2404.09591)           |
+|        <img src="assets/img/3iGS.jpg" width="300">         | 3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting |           ECCV 2024            |   [Paper](https://eccv.ecva.net/virtual/2024/poster/2035)    |
+|     <img src="assets/img/HeadStudio.jpg" width="300">      | HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting |           ECCV 2024            | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-73411-3_9) |
+|  <img src="assets/img/GaussianGrouping.jpg" width="300">   | Gaussian Grouping: Segment and Edit Anything in 3D Scenes    |           ECCV 2024            | [Paper](https://arxiv.org/pdf/2312.00732) <br> [Code](https://github.com/lkeab/gaussian-grouping) |
+|        <img src="assets/img/2DGS.jpg" width="300">         | 2D Gaussian Splatting for Geometrically Accurate Radiance Fields |         SIGGRAPH 2024          | [Paper](https://arxiv.org/pdf/2403.17888.pdf) <br> [Code](https://github.com/hbb1/2d-gaussian-splatting) |
+|   <img src="assets/img/RecentAdvances.jpg" width="300">    | Recent Advances in 3D Gaussian Splatting                     |           arXiv 2024           |          [Paper](https://arxiv.org/pdf/2403.11134)           |
+|     <img src="assets/img/COLMAPFREE.jpg" width="300">      | COLMAP-Free 3D Gaussian Splatting                            |           CVPR 2024            | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_COLMAP-Free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf) |
+|    <img src="assets/img/GaussianSLAM.jpg" width="300">     | Gaussian Splatting SLAM                                      |     CVPR 2024 (Best Demo)      | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Matsuki_Gaussian_Splatting_SLAM_CVPR_2024_paper.html) |
+|    <img src="assets/img/MipSplatting.jpg" width="300">     | Mip-Splatting: Alias-free 3D Gaussian Splatting              | CVPR 2024 (Best Student Paper) | [Paper](https://arxiv.org/pdf/2311.16493) <br> [Code](https://niujinshuchong.github.io/mip-splatting/) |
+|    <img src="assets/img/DreamGaussian.jpg" width="300">    | DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation |        ICLR 2024 (Oral)        | [Paper](https://arxiv.org/pdf/2309.16653.pdf) <br> [Code](https://github.com/dreamgaussian/dreamgaussian) |
+|        <img src="assets/img/3DGS.jpg" width="300">         | 3D Gaussian Splatting for Real-Time Radiance Field Rendering |         SIGGRAPH 2023          | [Paper](https://arxiv.org/pdf/2308.04079.pdf) <br> [Code](https://github.com/graphdeco-inria/gaussian-splatting) |
+|       <img src="assets/img/ASurvey.jpg" width="300">       | A Survey on 3D Gaussian Splatting                            |           arXiv 2024           |          [Paper](https://arxiv.org/pdf/2401.03890)           |
+|        <img src="assets/img/SuGaR.jpg" width="300">        | SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering |           CVPR 2024            | [Paper](https://github.com/Anttwo/SuGaR) <br> [Code](https://github.com/Anttwo/SuGaR) |
+
   ## Mesh
-  
+
   |                           Preview                            | Title                                                        |    Publication     |                            Links                             |
   | :----------------------------------------------------------: | :----------------------------------------------------------- | :----------------: | :----------------------------------------------------------: |
   | <img src="assets/img/VertexRegen.jpg" width="300"> | VertexRegen: Mesh Generation with Continuous Level of Detail |     arXiv 2025     | [Paper](https://arxiv.org/pdf/2508.09062) <br> [Project](https://vertexregen.github.io/) |
@@ -106,6 +107,6 @@
   | <img src="assets/img/MeshGPT.jpg" width="300"> | MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers |     CVPR 2024      | [Paper](https://arxiv.org/pdf/2311.15475) <br> [Code](https://github.com/lucidrains/meshgpt-pytorch) |
   | <img src="assets/img/PolyDiff.jpg" width="300"> | PolyDiff: Generating 3D Polygonal Meshes with Diffusion Models |     arXiv 2023     |          [Paper](https://arxiv.org/pdf/2312.11417)           |
   | <img src="assets/img/PolyGen.jpg" width="300"> | PolyGen: An Autoregressive Generative Model of 3D Meshes     |     ICML 2020      | [Paper](https://arxiv.org/pdf/2002.10880) <br> [Code](https://github.com/google-deepmind/deepmind-research/tree/master/polygen) |
-  
-  
-  ---
+
+
+---
